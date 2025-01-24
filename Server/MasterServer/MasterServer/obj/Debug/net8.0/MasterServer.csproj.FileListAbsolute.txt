@@ -1,0 +1,14 @@
+D:\chessproject\Server\MasterServer\MasterServer\bin\Debug\net8.0\MasterServer.exe
+D:\chessproject\Server\MasterServer\MasterServer\bin\Debug\net8.0\MasterServer.deps.json
+D:\chessproject\Server\MasterServer\MasterServer\bin\Debug\net8.0\MasterServer.runtimeconfig.json
+D:\chessproject\Server\MasterServer\MasterServer\bin\Debug\net8.0\MasterServer.dll
+D:\chessproject\Server\MasterServer\MasterServer\bin\Debug\net8.0\MasterServer.pdb
+D:\chessproject\Server\MasterServer\MasterServer\obj\Debug\net8.0\MasterServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\chessproject\Server\MasterServer\MasterServer\obj\Debug\net8.0\MasterServer.AssemblyInfoInputs.cache
+D:\chessproject\Server\MasterServer\MasterServer\obj\Debug\net8.0\MasterServer.AssemblyInfo.cs
+D:\chessproject\Server\MasterServer\MasterServer\obj\Debug\net8.0\MasterServer.csproj.CoreCompileInputs.cache
+D:\chessproject\Server\MasterServer\MasterServer\obj\Debug\net8.0\MasterServer.dll
+D:\chessproject\Server\MasterServer\MasterServer\obj\Debug\net8.0\refint\MasterServer.dll
+D:\chessproject\Server\MasterServer\MasterServer\obj\Debug\net8.0\MasterServer.pdb
+D:\chessproject\Server\MasterServer\MasterServer\obj\Debug\net8.0\MasterServer.genruntimeconfig.cache
+D:\chessproject\Server\MasterServer\MasterServer\obj\Debug\net8.0\ref\MasterServer.dll
