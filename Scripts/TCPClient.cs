@@ -14,7 +14,7 @@ public class TCPClient : MonoBehaviour
     public NetworkStream stream;
     private byte[] buffer = new byte[1024];
     private CancellationTokenSource cancellationTokenSource = new CancellationTokenSource();
-    private string serverAddress = "127.0.0.1";  //171.246.125.209
+    private string serverAddress = "171.246.125.209";  //171.246.125.209
     private int serverPort = 8080;           
 
     public bool isConnected()
